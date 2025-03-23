@@ -12,6 +12,7 @@ class RegisterUserController extends Controller
 {
 
 
+    //Dammy
     /**
      * Show the form for creating a new resource.
      */
